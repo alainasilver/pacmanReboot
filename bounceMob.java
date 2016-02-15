@@ -1,7 +1,7 @@
 
 
 class bounceMob {
-  private float xB; //EVIL MUAHAHAHHAHAHHAHAHHAHAHA 
+  private float xB; //EVIL MUAHAHAHHAHAHHAHAHHAHAHA  real funny haha
   private float yB; 
   private float diffBX;
   private float diffBY;
